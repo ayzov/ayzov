@@ -1,8 +1,7 @@
 - 👋 Всем дарова я ау
 - 👀 Да я сигма
 - 🌱 Я умею пользоватся фотошопом и знаю Glua
-- 😄
-- ⚡ 
+- ⚡ Героин!!!! ДААА
 
 <!---
 ayzov/ayzov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
