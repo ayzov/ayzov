@@ -3,7 +3,7 @@
 - 🌱 Я умею пользоватся фотошопом и знаю Glua
 - ⚡⚡ Героин!!!! ДААА
 
-<!---
-ayzov/ayzov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- ⚡ Всем привет я джампер
+- ⚡ Моя работа прыгать
+- ⚡ тутутутутут
