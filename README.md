@@ -1,13 +1,3 @@
-<img src="https://raw.githubusercontent.com/ayzov/ayzov/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/ay.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ay.ru" height="30" width="40" /></a>
